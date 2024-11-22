@@ -1,0 +1,9 @@
+- project proposal summary - which type - all - functionality
+-job portal + course store + news (blog)
+- event management + store + chat app
+- consultancy + store + help us chat app
+
+
+1st page proposal
+2nd page summary of the class
+3rd page code + output
