@@ -1,7 +1,7 @@
 - project proposal summary - which type - all - functionality
 -job portal + course store + news (blog)
 - event management + store + chat app
-- consultancy + store + help us chat app
+- consultancy + store + help us chat app (locked)
 
 
 1st page proposal
